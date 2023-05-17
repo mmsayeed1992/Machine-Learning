@@ -1,0 +1,10 @@
+
+Name: Murt Sayeed
+I spent approx.
+- 10 hours on Part 1, since it was similar to HW3
+- >20 hours on Part 2
+I sought help from recorded lectures on python by professor, piazza, and some TA help
+I also got some help on some learning/tutorial videos on below resources
+- towardsdatascience.com - Logistic Regression & Loss Function (Part II)
+- stackoverflow.com - logistic regression python solvers defintions
+- matplotlib.org - Colormaps

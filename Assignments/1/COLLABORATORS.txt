@@ -1,0 +1,6 @@
+
+
+Name: Muhammad Murt Sayeed
+I spent around 5 hours on this problem (3 on Prob. 1 and 2 on Prob. 2)
+I sought help from TA (Zhang, Frederick), lectures, online python, and numpy related help since i have been out of practice for a year now.
+

@@ -1,0 +1,11 @@
+
+Name: Murt Sayeed
+I spent approx. 15.5 hours on this problem 
+- 30 mins on Prob. 1
+- 30 mins Prob. 2
+- 1.5 hours on Prob. 3
+- 5 hours on Prob. 4
+- 2 hours on Prob. 5
+- 6 hours on Prob. 6
+I sought help from recorded lectures on python by professor and some TA help regarding parts 3,4,5,6
+I also got some help from stack overflow and python site on learning videos.

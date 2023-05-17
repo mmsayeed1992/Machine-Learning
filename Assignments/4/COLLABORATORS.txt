@@ -1,0 +1,11 @@
+
+Name: Murt Sayeed
+I spent approx. 5.15 hours on this assignment 
+- 1 hour on Prob. 1
+- 30 mins Prob. 2
+- 1 hours on Prob. 3
+- 45 mins on Prob. 4
+- 2 hours on Prob. 5
+
+I sought help from recorded lectures on python by professor and slides.
+I also got some help from stack overflow and python site on learning videos.

@@ -1,0 +1,19 @@
+
+Name: Murt Sayeed
+I spent approx. 28 hours total
+- 18 hours on Part 1
+- 10 hours on Part 2
+I sought help from recorded lectures on python by professor, piazza, and some TA help
+I also got some help on some Google, Stack Overflow and learning/tutorial videos on below resources
+
+https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
+
+https://scikit-learn.org/stable/modules/grid_search.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV
+
+https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+
+https://nlp.stanford.edu/projects/glove/
